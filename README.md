@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Daniel-HyunWoo
 - 👀 I’m interested in Computer Science. And I'm wanna be a Data Scientist!
-- 🌱 I’m currently learning Data Analystic & Machine Learning
+- 🌱 I’m currently learning DA/ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : Instagram hyunwoo_k01 ; E-mail kimhw7537@naver.com
 
