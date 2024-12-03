@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ Hyunwoo, or Shawn
-- 👀 I’m interested in Computer Science, and I'm wanna be a Data Scientist!
-- 🌱 I currently learn DA/ML
+- 👀 I’m interested in Quantum Computing and AI
+- 🌱 I currently major in Physcis and AI
 - 💞️ I’m looking forward to collaborating ...
 - 📫 How to contact me : Instagram hyunwoo_k01 ; E-mail kimhw7537@gmail.com
 
